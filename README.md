@@ -5,11 +5,11 @@ A new Flutter project.
 ## Getting Started
 
 into pubspec.yaml:
-# The following adds the Cupertino Icons font to your application, And Also Shared preferences:
+
+The following adds the Cupertino Icons font to your application, And Also Shared preferences:
   cupertino_icons: ^1.0.2
   shared_preferences: ^2.0.15
-
-####Javascript　
+　
 
 ```dart
 
