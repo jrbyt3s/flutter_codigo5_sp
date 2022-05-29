@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## ScreenShot:
+![test image size]<img src="assets/screenshots/1-homepage.png" width="40%">
+
 ## Getting Started
 
 into pubspec.yaml:
