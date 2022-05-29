@@ -134,6 +134,12 @@ drawer: Drawer(
       
 
 ```
+Home Page - dark Mode: </br>
+<img src="assets/screenshots/3-homepage-darkMode.png" width="30%"></br>
+
+Home Page - dark Profile Page - darkMode off: </br>
+<img src="assets/screenshots/4-profilepage-darkMode-off.png" width="30%"></br>
+
 ## Getting Started
 
 into pubspec.yaml:
