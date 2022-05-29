@@ -222,7 +222,7 @@ class _HomePageState extends State<HomePage> {
             RadioListTile(
               title: Text("Male"),
               value: 1,
-              groupValue: gender,
+              groupValue: gender, //gender is a int variable number
               onChanged: (int? value) {
                 gender = value!;
                 setState(() {});
@@ -233,7 +233,7 @@ class _HomePageState extends State<HomePage> {
               value: 2,
               groupValue: gender,
               onChanged: (int? value) {
-                gender = value!;
+                gender = value!; //gender is a int variable number
                 setState(() {});
               },
             ),
