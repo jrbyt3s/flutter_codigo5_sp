@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## ScreenShot:
 
-Home Page: 
+Home Page: </br>
 <img src="assets/screenshots/1-homepage.png" width="30%">
 
 #### Radio Button:
@@ -44,7 +44,7 @@ Column(
 
 ```
 
-Home Page - Drawer: 
+Home Page - Drawer: </br>
 
 <img src="assets/screenshots/2-homepage-Drawer.png" width="30%">
 
