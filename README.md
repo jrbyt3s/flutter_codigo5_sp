@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## ScreenShot:
-<img src="assets/screenshots/1-homepage.png" width="20%">
+<img src="assets/screenshots/1-homepage.png" width="30%">
 
 ## Getting Started
 
